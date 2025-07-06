@@ -1,6 +1,6 @@
 # Data Scientist | Machine Learning Scientist 
 Milan, Italy | +393204079413 | hassanobaya@gmail.com  
-[LinkedIn]([#](http://www.linkedin.com/in/hassan-obaya)) | [Kaggle]([#](https://www.kaggle.com/hassanobaya))
+[LinkedIn]([#](http://www.linkedin.com/in/hassan-obaya)) | [Kaggle]([#](https://www.kaggle.com/hassanobaya)) | [GitHub]([#](https://github.com/hassan-obaya))
 
 ## Objective
 Aspiring Machine Learning Engineer and Data Scientist with hands-on experience in developing end-to-end AI solutions through real-world projects, industry internships, and mentoring roles. Skilled in supervised and unsupervised learning, deep learning, and statistical analysis. Proven ability to build and evaluate models using Python, scikit-learn, PyTorch, and cloud tools. Seeking a challenging opportunity to contribute to impactful AI projects, combining technical excellence with a strong foundation in data-centric problem solving.
